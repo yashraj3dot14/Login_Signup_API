@@ -14,7 +14,7 @@ Email functionality is not giving 100% accuracy here.
 
 
 ### Endpoints
-http://127.0.0.1:8000/api/signup/  ==>User Registration
-http://127.0.0.1:8000/api/signin/ Login and generating Token
-http://127.0.0.1:8000/api/change_password/ To change password
-http://127.0.0.1:8000/api/password_reset/ Reset password through email
+#### http://127.0.0.1:8000/api/signup/  ==>User Registration
+#### http://127.0.0.1:8000/api/signin/ Login and generating Token
+#### http://127.0.0.1:8000/api/change_password/ To change password
+#### http://127.0.0.1:8000/api/password_reset/ Reset password through email
